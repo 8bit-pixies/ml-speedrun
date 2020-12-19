@@ -5,6 +5,7 @@ Speedrunning Machine Learning
 In this speedrun I'll attempt to re-implement a number of algorithms which define the "bread-and-butter" of what a data scientist should know (maybe). I will use vanilla "numpy" to implement the following...
 
 *  linear models (logistic regression?)
+*  naive bayes
 *  decision trees
 *  boosting/stacking of some variation
 *  convolution networks
