@@ -9,6 +9,7 @@ In this speedrun I'll attempt to re-implement a number of algorithms which defin
 *  boosting/stacking of some variation
 *  convolution networks
 *  some kind of hacked version of u-net for image segmentation
+*  soft actor critic
 
 I won't be using any frameworks (besides reading in data), and will probably have to implement some framework (rather badly) from scratch - so we'll see how we go. 
 
